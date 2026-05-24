@@ -1,3 +1,7 @@
+# The content is all completed by AI itself
+<img width="2879" height="1693" alt="image" src="https://github.com/user-attachments/assets/903fc0d7-8e0f-45a3-a74e-9d29222eaade" />
+<img width="1180" height="763" alt="image" src="https://github.com/user-attachments/assets/dc27bfa1-3bea-4116-949b-7d776bfba549" />
+
 # lite_ai_assistant
 It can assist you in completing some computer file operations and also recognize text in image files
 
