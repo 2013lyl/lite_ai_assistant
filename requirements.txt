@@ -1,0 +1,6 @@
+Requirements
+1.easyocr
+2.PyQt5
+3.ddgs
+4.openai
+5.json
