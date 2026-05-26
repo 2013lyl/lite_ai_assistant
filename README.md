@@ -3,6 +3,15 @@ It can assist you in completing some computer file operations and also recognize
 
 Not just a chatbot, but also your file manager. Without leaving the software, you can let AI help you organize documents and recognize text in images
 
+# Usage
+1.source code
+  python main.py --chat      (talk with AI)
+  python main.py --settings  (configuration settings)
+
+2.exe
+  main.exe --chat            (talk with AI)
+  main.exe --settings        (configuration settings)
+
 # Key Features
 
 Lite AI Assistant is more than a chatbot—it's your intelligent desktop companion that connects AI with your local files.
