@@ -1,6 +1,9 @@
 Requirements
 1.easyocr
-2.PyQt5
-3.ddgs
-4.openai
-5.json
+2.ddgs
+3.openai
+4.json
+5.os
+6.sys
+7.argparse
+8.queue
